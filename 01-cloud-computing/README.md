@@ -250,3 +250,71 @@ As shown, data producers (sources) and consumers (users) are separated — consu
 - Enhanced security through isolation
 - Remote access and management
 - Scalability and flexibility in cloud environments
+
+
+
+## 3. Types of Cloud Computing Models
+Four different types of cloud deployment models exist. These deployment models vary depending on how they are implemented, how they are hosted, and who has access to them. Although all cloud deployment options are based on the same virtualization idea (the separation of resources from bare metal infrastructure), they vary in terms of location, storage capacity, accessibility, and other factors. One should evaluate the various levels of security that Public, Private, Hybrid, and Community Clouds offer and the level of management necessary depending on the type of data you are working with.
+
+<img width="3400" height="1742" alt="image" src="https://github.com/user-attachments/assets/5813b73a-6a9c-4b40-b715-e71bd1652ecd" />
+
+
+### **Types of Cloud Computing Models**
+
+Cloud computing provides computing resources like storage and servers over the internet. There are several types of cloud deployment models, each with its own purpose and benefits.
+
+#### **1. Public Cloud**
+
+* Managed by third-party providers (like AWS, Google Cloud, Azure).
+* Shared by many users.
+* Low cost, easy to use, but less secure.
+
+#### **2. Private Cloud**
+
+* Used by one organization only.
+* Offers high security, control, and privacy.
+* More expensive and needs skilled management.
+
+#### **3. Hybrid Cloud**
+
+* Combines public and private clouds.
+* Offers flexibility, scalability, and better security.
+* Useful for handling variable workloads.
+
+#### **4. Community Cloud**
+
+* Shared by organizations with common goals (like government or research).
+* More secure than public clouds but less than private ones.
+* Cost is shared among members.
+
+#### **5. Multi-Cloud**
+
+* Uses multiple cloud providers or platforms.
+* Prevents vendor lock-in and improves flexibility.
+* Common in large businesses.
+
+
+### **Comparison**
+
+| Feature     | Public   | Private         | Community       | Hybrid          |
+| ----------- | -------- | --------------- | --------------- | --------------- |
+| Security    | Low      | High            | Higher          | High            |
+| Cost        | Cheapest | Expensive       | Shared          | Moderate        |
+| Control     | Low      | High            | High            | High            |
+| Ease of Use | Easy     | Needs expertise | Needs expertise | Needs expertise |
+
+
+### **Choosing the Right Cloud**
+
+When selecting a cloud provider, consider:
+
+* **Certifications:** Check for security standards like ISO 27001.
+* **Security:** Ensure encryption and data privacy.
+* **Compatibility:** Provider should support your existing systems.
+* **SLA:** Review uptime guarantees and support policies.
+* **Exit Strategy:** Avoid vendor lock-in and ensure data portability.
+
+
+### **Conclusion**
+
+Cloud computing offers flexibility and scalability through different models—Public, Private, Hybrid, Community, and Multi-Cloud. Choosing the right one depends on your business size, budget, and security needs.
