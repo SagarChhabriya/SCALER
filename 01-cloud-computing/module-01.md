@@ -1,5 +1,6 @@
 # Module 1: Fundamentals of Cloud Computing
 
+
 ## 1. Introduction to Cloud Computing
   - distribution of computing resources as a service
   - cloud providers like GCP, AWS, Azure, and so on
