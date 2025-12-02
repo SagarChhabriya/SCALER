@@ -3,8 +3,6 @@
 
 ## Infrastructure as a Service (IaaS)
 
-Here is the rewritten **short bullet-point version with an example added under each heading**:
-
 
 
 ### **Overview**
